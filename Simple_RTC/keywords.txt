@@ -1,9 +1,0 @@
-Date	KEYWORD1
-RTC	KEYWORD1
-toStr	KEYWORD2
-begin	KEYWORD2
-readTime	KEYWORD2
-setTime	KEYWORD2
-startClock	KEYWORD2
-
-dayNames LITERAL1
